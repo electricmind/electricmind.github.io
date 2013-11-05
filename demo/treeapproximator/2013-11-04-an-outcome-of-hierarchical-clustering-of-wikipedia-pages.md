@@ -1,6 +1,6 @@
 ---
 title: An outcome of hierarchical clustering of wikipedia pages
-layout: default
+layout: page
 ---
 
 A few wikipedia pages were processed by following way:
