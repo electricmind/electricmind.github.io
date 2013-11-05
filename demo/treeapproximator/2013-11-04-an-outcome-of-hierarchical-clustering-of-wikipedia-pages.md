@@ -23,5 +23,3 @@ Pages:
 
  -  [Algorithms](/demo/treeapproximator/algorithm.html);
  
-
-:) :)
