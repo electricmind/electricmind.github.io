@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: An outcome of hierarchical clustering of wikipedia pages
 ---
 
 A few wikipedia pages were processed by following way:
