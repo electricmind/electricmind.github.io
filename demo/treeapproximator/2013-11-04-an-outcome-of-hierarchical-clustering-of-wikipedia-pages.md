@@ -1,5 +1,5 @@
 ---
-title: An outcome of hierarchical clustering of wikipedia pages
+title: Hierarchical clustering of wikipedia pages
 layout: page
 category: demo
 tags: [demo, nlp, clustering, wikipedia] 
