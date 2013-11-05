@@ -2,8 +2,8 @@
 layout: post
 title: "An example of clustering Wikipedia pages"
 description: ""
-category: ""
-tags: []
+category: demo
+tags: [nlp, clustering, wikipedia]
 ---
 {% include JB/setup %}
 
