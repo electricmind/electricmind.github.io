@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 A few wikipedia pages were processed by following way:
 
  - A bunch of similar pages was downloaded by means of my procedure of 
