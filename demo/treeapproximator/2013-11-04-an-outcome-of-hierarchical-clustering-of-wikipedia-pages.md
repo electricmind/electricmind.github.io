@@ -22,3 +22,6 @@ For each cluster almost 100 keywords are printed at the top of page (it is a  pr
 Pages:
 
  -  [Algorithms](/demo/treeapproximator/algorithm.html);
+ 
+
+:)
