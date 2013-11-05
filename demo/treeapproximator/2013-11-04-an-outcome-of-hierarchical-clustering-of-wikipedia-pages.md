@@ -1,7 +1,7 @@
 A few wikipedia pages were processed by following way:
 
  - A bunch of similar pages was downloaded by means of my procedure of 
-   {targeted web-crawling}[https://github.com/electricmind/webcrawler/tree/master/src/ru/wordmetrix/webcrawler];
+   [targeted web-crawling](https://github.com/electricmind/webcrawler/tree/master/src/ru/wordmetrix/webcrawler);
 
  - These pages were aligned and arranged in several clusters;
 
