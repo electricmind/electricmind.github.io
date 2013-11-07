@@ -17,4 +17,6 @@ This demo was done with my tool for [a targeted web-crawling](https://github.com
 Pages:
 
  -  [Algorithms](/demo/treeapproximator/algorithm.html);
+
+ -  [Robot](/demo/treeapproximator/robot.html);
  
