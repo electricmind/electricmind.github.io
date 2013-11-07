@@ -19,4 +19,6 @@ Pages:
  -  [Algorithms](/demo/treeapproximator/algorithm.html);
 
  -  [Robot](/demo/treeapproximator/robot.html);
+
+ -  [Dexter](/demo/treeapproximator/dexter.html);
  
