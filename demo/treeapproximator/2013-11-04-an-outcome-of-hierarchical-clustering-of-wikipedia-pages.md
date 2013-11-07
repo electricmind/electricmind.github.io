@@ -21,4 +21,6 @@ Pages:
  -  [Robot](/demo/treeapproximator/robot.html);
 
  -  [Dexter](/demo/treeapproximator/dexter.html);
+
+ -  [Salad](/demo/treeapproximator/salad.html);
  
