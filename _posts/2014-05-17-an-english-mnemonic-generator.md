@@ -12,7 +12,7 @@ Now, I can suggest you the solution: [mnemonic generator](http://enwiz.jelasticl
 
 How does it works? Wow, it's so simple. Let's assume a table exists which for each couple of words lists the words that can plausibly follow them. It makes the trick: for each next position we can choose the word of required length. A bit tiring for a human, but easy for a machine: they never stops thinking until get a profit.
 
-With [sentence generator](http://enwiz.jelasticloud.com/#memento) you can try to do it on your own choosing next word from a variety of prompted ones. Do you have other requirements instead of lengths of the words? You can write a quirk phrase: *"She saw someone standing silently."* Or an acronym: *"We Are The Cruel Hands."* (for "WATCH"). Or you can even write something sensible. I hope it gives you a chance to get the bridge between English as a language and English as a part of your personality. Enjoy the puzzle :).
+With [sentence generator](http://enwiz.jelasticloud.com/#generate) you can try to do it on your own choosing next word from a variety of prompted ones. Do you have other requirements instead of lengths of the words? You can write a quirk phrase: *"She saw someone standing silently."* Or an acronym: *"We Are The Cruel Hands."* (for "WATCH"). Or you can even write something sensible. I hope it gives you a chance to get the bridge between English as a language and English as a part of your personality. Enjoy the puzzle :).
 
 This toy, [EnWiz](http://enwiz.jelasticloud.com) uses a vocabulary up to 85000 words that forms 4000000 trigrams. But you can try your own set, [getting the sources of EnWiz here](https://github.com/electricmind/enwiz).
 
