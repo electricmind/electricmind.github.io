@@ -6,9 +6,9 @@ category: demo
 tags: [nlp, markov chains, english]
 ---
 {% include JB/setup %}
-Have you ever seen any of those clever guys who are able to pronounce endless series of senseless numbers for a long time? Sometimes they do it with mnemonics : the passages where each word is the same length as an according digit of Pi number: *"How I wish I could calculate pi.".* (3.141592) The tonnes of mnemonics like that do exist (see [piphilology](http://en.wikipedia.org/wiki/Piphilology)). Now you can do the trick: senseless poetry is a lot of easy to remember than digits. But the question is how on earth someone was able to write such phrases?
+Have you ever seen any of those clever guys who are able to recite endless series of digits of number Pi? Sometimes they do it with mnemonics : the passages where each word is the same length as an according digit of Pi number: *"How I wish I could calculate pi.".* (3.141592) The tonnes of mnemonics like that do exist (see [piphilology](http://en.wikipedia.org/wiki/Piphilology)). Now you can do the trick: senseless poetry is a lot of easy to remember than digits. But the question is how on earth someone was able to write such phrases?
 
-Now, I can suggest you the solution: [mnemonic generator](http://enwiz.jelasticloud.com/#memento). Just allow this simple toy to crunch your series of digits and it might provide you a suitable mnemonic, as that one: *"Now I have a child condemned to always think"* (3.14159265).
+I can suggest you the solution: [mnemonic generator](http://enwiz.jelasticloud.com/#memento). Just allow this simple toy to crunch your series of digits and it might provide you a suitable mnemonic, as that one: *"Now I have a child condemned to always think"* (3.14159265).
 
 How does it works? Wow, it's so simple. Let's assume a table exists which for each couple of words lists the words that can plausibly follow them. It makes the trick: for each next position we can choose the word of required length. A bit tiring for a human, but easy for a machine: they never stops thinking until get a profit.
 
